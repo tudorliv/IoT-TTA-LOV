@@ -15,7 +15,7 @@ Current version: Version 1.3
 
 Authors: 
 ===========
-[Liviana Tudor](https://scholar.google.com/citations?user=WQu1J74AAAAJ&hl=en), [Lecia Barker](https://scholar.google.com/citations?user=fzNnkykAAAAJ&hl=en), 
+[Liviana Tudor](https://scholar.google.com/citations?user=WQu1J74AAAAJ&hl=en), [Lecia Barker](https://scholar.google.com/citations?user=fzNnkykAAAAJ&hl=en),
 [Ghislain Atemezing](https://scholar.google.es/citations?user=17EeA1UAAAAJ&hl=en), [Mohammad Q. Azhar](https://scholar.google.com/citations?user=SpVRxaYAAAAJ&hl=en), [Jorge Guerra Guerra](https://scholar.google.com/citations?user=VREZXUYAAAAJ&hl=en), [Clark Mousaw](https://www.colorado.edu/cmci/2021/05/03/class-2021-clark-mousaw)
 
 
@@ -29,18 +29,18 @@ Other visualisation:
 Table of Content
 ===========
 
-[Classes](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#classes)
+[Classes](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#classes)
 
-[Object Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#objectproperties)
+[Object Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#objectproperties)
 
-[Data Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#dataproperties)
+[Data Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#dataproperties)
 
-[Named Individuals](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#namedindividuals)
+[Named Individuals](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#namedindividuals)
 
-[Annotation Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#annotationproperties)
+[Annotation Properties](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#annotationproperties)
 
-[General Axioms](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#generalaxioms)
+[General Axioms](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#generalaxioms)
 
-[SWRL Rules](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#swrlrules)
+[SWRL Rules](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#swrlrules)
 
-[Namespace Declarations](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&lang=en#namespacedeclarations)
+[Namespace Declarations](http://150.146.207.114/lode/extract?url=https%3A%2F%2Ftudorliv.github.io%2FIoT-TTA%2FIIoT_v1.3_fr.owl&owlapi=true&lang=en#namespacedeclarations)
